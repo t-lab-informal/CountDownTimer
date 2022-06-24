@@ -1,6 +1,8 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 #theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 title: "t-lab非公式まとめ"
 description: "卒業したいやつによる卒業するための論文カウントダウン"
+logo: img/
 site_favicon: img/icon.png
